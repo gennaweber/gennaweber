@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gennaweber
-- 👀 I’m interested in dart frogs and React.
+- 👀 I’m interested in dart frogs, plants, and React.
 - 🌱 I’m currently learning Angular.
 - 📫 Email me at gennamweber@gmail.com
 
