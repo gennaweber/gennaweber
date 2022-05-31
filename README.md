@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gennaweber
 - 👀 I’m interested in dart frogs, plants, and React.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Firebase.
 - 📫 Email me at gennamweber@gmail.com
 
 <!---
