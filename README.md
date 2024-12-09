@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @gennaweber
-- 👀 I’m interested in dart frogs, plants, and React.
-- 🌱 I’m currently learning Firebase.
-- 📫 Email me at gennamweber@gmail.com
 
 <!---
 gennaweber/gennaweber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
